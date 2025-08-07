@@ -1,0 +1,1 @@
+ClipboardToLaTeX is a simple python script that verifies if there's an image in the clipboard, then runs pix2tex to generate Markdown-compatible LaTeX output in the clipboard itself, ShareX is recommended.
